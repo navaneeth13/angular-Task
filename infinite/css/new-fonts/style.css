@@ -1,0 +1,34 @@
+@font-face {
+	font-family: 'helveticaNeue';
+	src: url('Helvetica/HelveticaNeue.otf');
+}
+
+@font-face {
+	font-family: 'myriad';
+	src: url('myriad.ttf');
+}
+
+@font-face {
+	font-family: 'lato1';
+	src: url('lato1.woff2');
+}
+
+@font-face {
+	font-family: 'lato2';
+	src: url('lato2.woff2');
+}
+
+@font-face {
+	font-family: 'raleway';
+	src: url('raleway.woff2');
+}
+
+@font-face {
+	font-family: 'roboto-thin';
+	src: url('Roboto-Thin.ttf');
+}
+
+@font-face {
+	font-family: 'roboto-regular';
+	src: url('Roboto-Regular.ttf');
+}
